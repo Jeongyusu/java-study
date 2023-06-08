@@ -56,6 +56,7 @@ public class Exten01 {
 
         // System.out.println(p2.name);
         KoreanPerson p1 = new Person();
+        p1.speak();
 
     }
 }
